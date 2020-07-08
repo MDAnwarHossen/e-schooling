@@ -72,14 +72,16 @@ body{
     
 }
 
+.glance:hover{
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);   
+    cursor: pointer; 
+
+}
+
 h3{
     font-weight: 500;
 }
 
-/* 2nd glance box*/
-.special-box{
-    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
-}
 
 .online-courses-img{
     margin: 20px;
@@ -128,6 +130,11 @@ h3{
 
     padding-top: 25px;
 }
+
+.contact-us{
+    background-color:#F0FFF0;
+}
+
 
 /*footer area*/
 
